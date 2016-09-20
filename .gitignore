@@ -1,0 +1,10 @@
+# Nim build cache
+nimcache
+nimsuggest.log
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+nrpl*
+tnim*
+# Built binaries
+/build
